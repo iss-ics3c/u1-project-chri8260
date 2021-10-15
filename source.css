@@ -1,0 +1,45 @@
+body{
+     margin: 0br;
+    background-color: black;
+}
+
+#div3{
+      padding: 8px;
+    font-size: 2em;
+    display: flex;
+    background-color: orange;
+    justify-content: space-around;
+    top: 0px;
+    width: 100%;
+    font-family: 'Bebas Neue', cursive;
+}
+
+#a1{
+     color: black;
+    text-decoration: none;
+}
+
+#a1:hover{
+    color:white;
+}
+
+#a1:active{
+    color:yellow;
+}
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 3.5em;
+    color:orange;
+    
+}
+
+hr{
+          border: 3px solid orange;  
+
+}
+
+a{
+    color:orange;
+    font-size: 1em;
+}
